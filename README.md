@@ -22,3 +22,9 @@ Dive into Deep Learning
 ## LaTex符号
 
 - 哈达玛积(Hadamard product):  $\odot$, 使用: ```$\odot$```
+- $L_2$范数是向量元素平方和的平方根
+$$
+\begin{Vmatrix}
+X
+\end{Vmatrix}_2 = \sqrt{\sum_{i=1}^{n}{x_i^2}}
+$$
