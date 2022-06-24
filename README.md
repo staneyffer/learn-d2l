@@ -20,6 +20,7 @@ Dive into Deep Learning
 
 
 ## LaTex符号
+[链接](https://zhuanlan.zhihu.com/p/109649028)
 
 - 哈达玛积(Hadamard product):  $\odot$, 使用: ```$\odot$```
 - $L_2$范数是向量元素平方和的平方根
@@ -28,3 +29,21 @@ $$
 X
 \end{Vmatrix}_2 = \sqrt{\sum_{i=1}^{n}{x_i^2}}
 $$
+
+
+| 描述      | 符号     | LaTex表示|
+|----------|----------|---------|
+| 一个空格 |$a\quad b$|```a\quad b```|
+| 两个空格 |$a\qquad b$|```a\qquad b```|
+| 空心字母 |$\mathbb R$, $\mathbb R^n$|```\mathbb R```, ```\mathbb R^n```|
+| 集合属于 |$a\in b$|```a\in b```|
+| 加粗 |$\pmb x$|```\pmb x```|
+| 加粗 |$\mathbf x$|```\mathbf x```|
+| 乘 |$\cdot$|```\cdot```|
+
+## 数学学习资源
+
+### 矩阵求导
+[矩阵求导的本质与分子布局、分母布局的本质（矩阵求导——本质篇）](https://zhuanlan.zhihu.com/p/263777564)
+[矩阵求导公式的数学推导（矩阵求导——基础篇）](https://zhuanlan.zhihu.com/p/273729929)
+[矩阵求导公式的数学推导（矩阵求导——进阶篇）](https://zhuanlan.zhihu.com/p/288541909)
