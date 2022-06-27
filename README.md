@@ -40,6 +40,13 @@ $$
 | 加粗 |$\pmb x$|```\pmb x```|
 | 加粗 |$\mathbf x$|```\mathbf x```|
 | 乘 |$\cdot$|```\cdot```|
+| 积 |$\prod$|```\prod```|
+| 一重积分 |$\int$|```\int```|
+| 二重积分 |$\iint$|```\iint```|
+| 曲线积分 |$\oint$|```\oint```|
+| 极限 |$\lim$|```\lim```|
+| 微分算子 |$\mathrm{d}x$|```\mathrm{d}x```|
+| 求导符号 |$\partial$|```\partial```|
 | 向量内积 |$\langle \pmb w, \pmb x \rangle$|```\langle \pmb w, \pmb x \rangle```|
 | 帽子 |$\hat{y}$|```\hat{y}```|
 |  |$\ell$|```\ell```|
@@ -48,7 +55,11 @@ $$
 |  |$\Leftrightarrow$|```\Leftrightarrow```|
 |  |$\leftrightarrow$|```\leftrightarrow```|
 |  |$\eta$|```\eta```|
+|  |$\Delta$|```\Delta```|
 |  |$\epsilon$|```\epsilon```|
+| 大于等于 |$\ge$|```\ge```|
+|  |$\{ \}$|```\{ \}```|
+|  |$$f(x) = \begin{cases} 0 & \text{x=0} \\ 1 & \text{x!=0}\end{cases}$$|```f(x) = \begin{cases} 0 & \text{x=0} \\ 1 & \text{x!=0}\end{cases}```|
 
 
 
@@ -61,6 +72,11 @@ $$
 
 [矩阵求导公式的数学推导（矩阵求导——进阶篇）](https://zhuanlan.zhihu.com/p/288541909)
 
+
+### 极大似然估计
+
+[图解极大似然估计推导与3D可视化](https://www.youtube.com/watch?v=C6a-SMY0H50)
+[图解极大似然估计推导与3D可视化-github](https://github.com/aespresso/a_journey_into_math_of_ml)
 
 
 ## Jupyterlab使用
