@@ -55,6 +55,7 @@ $$
 |  |$\Leftrightarrow$|```\Leftrightarrow```|
 |  |$\leftrightarrow$|```\leftrightarrow```|
 |  |$\eta$|```\eta```|
+|  |$\sigma$|```\sigma```|
 |  |$\Delta$|```\Delta```|
 |  |$\epsilon$|```\epsilon```|
 | 大于等于 |$\ge$|```\ge```|
