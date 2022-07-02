@@ -40,7 +40,9 @@ $$
 | 加粗 |$\pmb x$|```\pmb x```|
 | 加粗 |$\mathbf x$|```\mathbf x```|
 | 乘 |$\cdot$|```\cdot```|
+|  |$\circ$|```\circ```|
 | 积 |$\prod$|```\prod```|
+| 任意 |$\forall$|```\forall```|
 | 一重积分 |$\int$|```\int```|
 | 二重积分 |$\iint$|```\iint```|
 | 曲线积分 |$\oint$|```\oint```|
@@ -58,6 +60,10 @@ $$
 |  |$\sigma$|```\sigma```|
 |  |$\Delta$|```\Delta```|
 |  |$\epsilon$|```\epsilon```|
+|  |$\sim$|```\sim```|
+|  |$\lambda$|```\lambda```|
+| 伽玛函数| $ \Gamma(n)$| ``` \Gamma(n)```|
+|   | $\mathcal{N}$|```\mathcal{N}``` |
 | 大于等于 |$\ge$|```\ge```|
 |  |$\{ \}$|```\{ \}```|
 |  |$$f(x) = \begin{cases} 0 & \text{x=0} \\ 1 & \text{x!=0}\end{cases}$$|```f(x) = \begin{cases} 0 & \text{x=0} \\ 1 & \text{x!=0}\end{cases}```|
