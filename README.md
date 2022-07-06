@@ -42,6 +42,7 @@ $$
 | 乘 |$\cdot$|```\cdot```|
 |  |$\circ$|```\circ```|
 | 积 |$\prod$|```\prod```|
+| 不等于 |$\ne$|```\ne``` 或者```\neq```|
 | 任意 |$\forall$|```\forall```|
 | 一重积分 |$\int$|```\int```|
 | 二重积分 |$\iint$|```\iint```|
@@ -62,12 +63,15 @@ $$
 |  |$\epsilon$|```\epsilon```|
 |  |$\sim$|```\sim```|
 |  |$\lambda$|```\lambda```|
+|  |$\alpha$|```\alpha```|
+|  |$\beta$|```\beta```|
+| gamma |$\gamma$|```\gamma```|
 | 伽玛函数| $ \Gamma(n)$| ``` \Gamma(n)```|
 |   | $\mathcal{N}$|```\mathcal{N}``` |
 | 大于等于 |$\ge$|```\ge```|
 |  |$\{ \}$|```\{ \}```|
 |  |$$f(x) = \begin{cases} 0 & \text{x=0} \\ 1 & \text{x!=0}\end{cases}$$|```f(x) = \begin{cases} 0 & \text{x=0} \\ 1 & \text{x!=0}\end{cases}```|
-
+|  |$$\begin{eqnarray}\text{sigmoid}(x) &=& \frac{1}{2} + \frac{x}{4} - \frac{x^2}{48} + O(x^5) \\ \text{tanh}(x) &=&1\end{eqnarray}$$|```\begin{eqnarray}\text{sigmoid}(x) &=& \frac{1}{2} + \frac{x}{4} - \frac{x^2}{48} + O(x^5) \\ \text{tanh}(x) &=&1\end{eqnarray}```|
 
 
 ## 数学学习资源
