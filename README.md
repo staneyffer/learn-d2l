@@ -44,6 +44,8 @@ $$
 | 积 |$\prod$|```\prod```|
 | 不等于 |$\ne$|```\ne``` 或者```\neq```|
 | 任意 |$\forall$|```\forall```|
+| 向上取整 |$\lceil x \rceil$|```\lceil x \rceil```|
+| 向下取整 |$\lfloor x \rfloor$|```\lceil x \rceil```|
 | 一重积分 |$\int$|```\int```|
 | 二重积分 |$\iint$|```\iint```|
 | 曲线积分 |$\oint$|```\oint```|
@@ -54,6 +56,7 @@ $$
 | 帽子 |$\hat{y}$|```\hat{y}```|
 |  |$\ell$|```\ell```|
 |  |$\ast$|```\ast```|
+| 二维交操作子（卷积） |$\star$|```\star```|
 |  |$$\mathop{\min}_{\pmb w, b} $|```\mathop{\min}_{\pmb w, b} ```|
 |  |$\Leftrightarrow$|```\Leftrightarrow```|
 |  |$\leftrightarrow$|```\leftrightarrow```|
