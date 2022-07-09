@@ -92,6 +92,7 @@ $$
 [图解极大似然估计推导与3D可视化](https://www.youtube.com/watch?v=C6a-SMY0H50)
 [图解极大似然估计推导与3D可视化-github](https://github.com/aespresso/a_journey_into_math_of_ml)
 
+## [CNN学了什么-cnn-explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## Jupyterlab使用
 ### 安装
