@@ -131,3 +131,4 @@ data/
 resources/
 *.DS_Store
 *.params
+nohup.out

@@ -100,6 +100,11 @@ $$
 $ pip install jupyterlab
 ```
 
+## 数据处理
+https://tianchi.aliyun.com/forum/postDetail?postId=336088
+
+https://zhuanlan.zhihu.com/p/362996909
+
 ### markdown插件支持mermaid画图
 [jupyterlab-markup](https://github.com/agoose77/jupyterlab-markup)
 ```shell
