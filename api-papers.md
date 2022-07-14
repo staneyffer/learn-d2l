@@ -19,6 +19,9 @@ https://cloud.tencent.com/developer/article/1791408
 
 https://zhuanlan.zhihu.com/p/430369730
 
+### Bert
+
+https://github.com/rsanshierli/EasyBert
 
 ## 资源网站
 
