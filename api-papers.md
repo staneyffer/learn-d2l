@@ -18,3 +18,8 @@ https://github.com/shreyashankar/gpt3-sandbox
 https://cloud.tencent.com/developer/article/1791408
 
 https://zhuanlan.zhihu.com/p/430369730
+
+
+## 资源网站
+
+https://paperswithcode.com/
