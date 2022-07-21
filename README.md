@@ -68,6 +68,7 @@ $$
 |  |$\lambda$|```\lambda```|
 |  |$\alpha$|```\alpha```|
 |  |$\beta$|```\beta```|
+|马尔科夫假设|$\tau$|```\tau```|
 | gamma |$\gamma$|```\gamma```|
 | 伽玛函数| $ \Gamma(n)$| ``` \Gamma(n)```|
 |   | $\mathcal{N}$|```\mathcal{N}``` |
