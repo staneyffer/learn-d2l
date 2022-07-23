@@ -56,6 +56,7 @@ $$
 | 帽子 |$\hat{y}$|```\hat{y}```|
 |  |$\ell$|```\ell```|
 |  |$\ast$|```\ast```|
+|  |$\theta$|```\theta```|
 | 二维交操作子（卷积） |$\star$|```\star```|
 |  |$$\mathop{\min}_{\pmb w, b} $|```\mathop{\min}_{\pmb w, b} ```|
 |  |$\Leftrightarrow$|```\Leftrightarrow```|
@@ -68,6 +69,7 @@ $$
 |  |$\lambda$|```\lambda```|
 |  |$\alpha$|```\alpha```|
 |  |$\beta$|```\beta```|
+|  |$\phi$|```\phi```|
 |马尔科夫假设|$\tau$|```\tau```|
 | gamma |$\gamma$|```\gamma```|
 | 伽玛函数| $ \Gamma(n)$| ``` \Gamma(n)```|
